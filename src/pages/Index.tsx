@@ -348,7 +348,7 @@ export default function Index() {
 
           <div className="grid md:grid-cols-3 gap-6 max-w-4xl mx-auto">
             {[
-              { icon: "MapPin", label: "Адрес", value: "ул. Красоты, 1", sub: "Ваш город", color: "#ff2d78" },
+              { icon: "MapPin", label: "Адрес", value: "ул. Петра Сухова, 2А", sub: "г. Барнаул", color: "#ff2d78" },
               { icon: "Phone", label: "Телефон", value: "+7 (000) 000-00-00", sub: "Ежедневно 10:00 – 20:00", color: "#b24bff" },
               { icon: "MessageCircle", label: "Соцсети", value: "@krasota_studio", sub: "Instagram · ВКонтакте", color: "#00e5ff" },
             ].map((c, i) => (
