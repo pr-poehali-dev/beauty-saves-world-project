@@ -132,7 +132,7 @@ export default function Index() {
             </h1>
             <p className="animate-slide-up-delay-2 mb-10 text-lg"
               style={{ color: "rgba(255,255,255,0.6)", fontFamily: "'Golos Text', sans-serif", lineHeight: 1.7, maxWidth: 420 }}>
-              Перманентный макияж и аппаратный массаж — преображение, которое остаётся с вами
+              Перманентный макияж, уходовые процедуры и аппаратный массаж — преображение, которое остаётся с вами
             </p>
             <div className="animate-slide-up-delay-3 flex flex-wrap gap-4">
               <button onClick={() => scrollTo("booking")} className="btn-neon px-8 py-4 rounded-full text-base">
